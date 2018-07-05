@@ -1,0 +1,11 @@
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\bin\Debug\PushApi.Common.dll
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\bin\Debug\PushApi.Common.pdb
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\bin\Debug\Microsoft.Azure.NotificationHubs.dll
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\bin\Debug\Microsoft.Azure.NotificationHubs.xml
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\obj\Debug\PushApi.Common.csprojAssemblyReference.cache
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\obj\Debug\PushApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\obj\Debug\PushApi.Common.csproj.CopyComplete
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\obj\Debug\PushApi.Common.dll
+C:\Users\carlos.trujillo\Documents\Rio Tinto\Rio Tinto - Mobility Reference Architecture\Code\Rio Tinto - Mobile App\PushApi.Common\obj\Debug\PushApi.Common.pdb
